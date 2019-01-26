@@ -1,0 +1,49 @@
+cd /d C:\Python364
+
+https://pypi.org/project/opencv-python/
+pip3 install opencv-python
+
+pip3 install zmq
+
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_video_display/py_video_display.html
+
+http://manmade2.com/simple-home-surveillance-with-opencv-python-and-raspberry-pi/
+
+https://raspberrypi.stackexchange.com/questions/72308/how-to-stream-video-via-socket-using-opencv-and-picamera
+
+
+
+http://www.chioka.in/python-live-video-streaming-example/
+
+
+https://blog.miguelgrinberg.com/post/video-streaming-with-flask
+
+F:\Users\Kaya\Desktop\raspberry\pythonProgramme\socket\zmq\viewer.py
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.alatortsev.com/2018/04/27/installing-opencv-on-raspberry-pi-3-b/
+
+
+
+
+https://raspberry.tips/raspberrypi-tutorials/speicher-auf-dem-raspberry-pi-aufraeumen
+Shell
+
+aptitude -O installsize -F'%p %I' search '~i'
+sudo apt-get purge scratch2 -y
+sudo apt-get purge scratch
+sudo apt-get purge wolfram-engine libreoffice* minecraft-pi sonic-pi -y
+sudo apt-get clean
+sudo apt-get autoremove
+
+
