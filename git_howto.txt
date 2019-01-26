@@ -1,0 +1,8 @@
+git config --global user.email "mkaya@outlook.de"
+git config --global user.name "mkaya"
+
+
+
+git remote add origin https://github.com/kayam/pi.git
+git pull origin master --allow-unrelated-histories
+--git push -u origin master
